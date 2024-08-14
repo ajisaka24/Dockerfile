@@ -1,0 +1,2 @@
+docker tag myflaskapp:latest <ajisaka24>/myflaskapp:latest
+docker push <Dockerfile>/myflaskapp:latest
